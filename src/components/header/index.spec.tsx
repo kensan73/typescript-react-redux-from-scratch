@@ -5,7 +5,7 @@ import Header from './index'
 describe('<Header>', () => {
   it('should render no errors', () => {
     const component = shallow(<Header />)
-    const wrapper = component.find('.headerId')
+    const wrapper = component.find('#headerId')
     expect(wrapper.length).toEqual(1)
   })
 })
