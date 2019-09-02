@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# I Ken Ore am using node v10.15.1
+
 ## Available Scripts
 
 In the project directory, you can run:
